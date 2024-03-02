@@ -1,6 +1,5 @@
 # Evaluacion tecnica Backend
-Repositorio de código fuente de evaluación técnica de backend.
-
+Repositorio de código fuente de evaluación técnica de backend, el cual es un proyecto API-REST que permite tener en base de datos informacion de candidatos, tecnologias y la relacion entre estos.
 
 ## Configuracion proyecto
 
@@ -25,8 +24,8 @@ Repositorio de código fuente de evaluación técnica de backend.
     - Mockito Core
     - Mockito Junit Jupiter
 - Documentation
-  - Springdoc Openapi Starter Webmvc Ui
+    - Springdoc Openapi Starter Webmvc Ui
+
 
 ### Plugins configurados
-
 - Lombok
